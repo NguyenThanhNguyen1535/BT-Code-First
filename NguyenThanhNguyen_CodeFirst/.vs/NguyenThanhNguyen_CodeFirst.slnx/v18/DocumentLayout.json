@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\SuppliersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\SuppliersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\OrderDetailsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OrderDetailsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -69,6 +61,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,6 +91,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T14:15:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SuppliersController.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\SuppliersController.cs",
               "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "OrderDetailsController.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\OrderDetailsController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderDetailsController.cs",
@@ -107,12 +124,11 @@
               "RelativeToolTip": "Controllers\\OrderDetailsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T14:08:24.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T14:08:24.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
@@ -120,12 +136,11 @@
               "RelativeToolTip": "Controllers\\OrdersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T14:07:52.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T14:07:52.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -133,12 +148,11 @@
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T14:07:12.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T14:07:12.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
@@ -146,12 +160,11 @@
               "RelativeToolTip": "Views\\Products\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T14:03:41.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T14:03:41.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -159,12 +172,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T14:02:37.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T14:02:37.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
@@ -172,12 +184,11 @@
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T14:02:32.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T14:02:32.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "20260408134216_InitSalesDB.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Migrations\\20260408134216_InitSalesDB.cs",
               "RelativeDocumentMoniker": "Migrations\\20260408134216_InitSalesDB.cs",
@@ -185,12 +196,11 @@
               "RelativeToolTip": "Migrations\\20260408134216_InitSalesDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T13:42:17.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T13:42:17.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "20260408133903_InitialCreate.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Migrations\\20260408133903_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20260408133903_InitialCreate.cs",
@@ -201,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -213,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -225,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Supplier.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "Models\\Supplier.cs",
@@ -237,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -249,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -261,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
@@ -273,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -285,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
