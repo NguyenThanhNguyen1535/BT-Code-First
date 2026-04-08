@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|d:\\bt-code-first\\nguyenthanhnguyen_codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9122E18-8EBC-56A0-FB00-819D70E6CD44}|NguyenThanhNguyen_CodeFirst.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:18:08.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:17:17.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:16:48.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "Models\\Supplier.cs",
+              "ToolTip": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Supplier.cs",
+              "RelativeToolTip": "Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:16:16.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\BT-Code-First\\NguyenThanhNguyen_CodeFirst\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:14:58.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
